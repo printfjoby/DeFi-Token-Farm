@@ -1,0 +1,11 @@
+# Dependency directories
+node_modules/
+
+# abis
+src/abis
+
+# truffle compile output
+build
+
+# package-lock
+package-lock.json
