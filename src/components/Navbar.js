@@ -1,7 +1,6 @@
 import React, { Component } from 'react'
 import logo from '../p-logo.jpg'
 
-import { Container, Row, Col } from 'bootstrap/dist/css/bootstrap.css'
 class Navbar extends Component {
   render() {
     return (
